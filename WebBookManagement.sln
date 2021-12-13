@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBookManagement", "WebBookManagement\WebBookManagement.csproj", "{466FE9B3-88A1-488D-9C9C-033E7544D4ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Application", "1.Application", "{2D862D52-AF5B-4E9D-8377-B01E9063AA49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{8CE6B096-1BC6-4C57-ABA7-E4F4C7E13A98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBookManagement.Domain", "Domain\WebBookManagement.Domain.csproj", "{377845C7-22EB-4B65-8B57-D713CD2F3A2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Services", "3.Services", "{101138D6-0013-4D9D-8A71-7C2C86D04FC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBookManagement.Services", "WebBookManagement.Services\WebBookManagement.Services.csproj", "{471E26E7-BCBF-41CE-8667-7E658588CF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466FE9B3-88A1-488D-9C9C-033E7544D4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466FE9B3-88A1-488D-9C9C-033E7544D4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466FE9B3-88A1-488D-9C9C-033E7544D4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466FE9B3-88A1-488D-9C9C-033E7544D4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377845C7-22EB-4B65-8B57-D713CD2F3A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377845C7-22EB-4B65-8B57-D713CD2F3A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377845C7-22EB-4B65-8B57-D713CD2F3A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377845C7-22EB-4B65-8B57-D713CD2F3A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471E26E7-BCBF-41CE-8667-7E658588CF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471E26E7-BCBF-41CE-8667-7E658588CF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471E26E7-BCBF-41CE-8667-7E658588CF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471E26E7-BCBF-41CE-8667-7E658588CF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{466FE9B3-88A1-488D-9C9C-033E7544D4ED} = {2D862D52-AF5B-4E9D-8377-B01E9063AA49}
+		{377845C7-22EB-4B65-8B57-D713CD2F3A2F} = {8CE6B096-1BC6-4C57-ABA7-E4F4C7E13A98}
+		{471E26E7-BCBF-41CE-8667-7E658588CF4A} = {101138D6-0013-4D9D-8A71-7C2C86D04FC5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4660FD7-8840-4204-972F-87DDB13ED880}
+	EndGlobalSection
+EndGlobal

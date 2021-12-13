@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aN9pi31jKACgbtaWZlguicjZLdlmPA+qLjxLLEt2zL+4lDBian4iGYv5WUQSGllKXQje/LBjTgmd9Mtp1OvQg==",
+  "success": true,
+  "projectFilePath": "D:\\testes\\BookManagement-main (1)\\BookManagement-main\\WebBookManagement.Services\\WebBookManagement.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ldssb\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ldssb\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ldssb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

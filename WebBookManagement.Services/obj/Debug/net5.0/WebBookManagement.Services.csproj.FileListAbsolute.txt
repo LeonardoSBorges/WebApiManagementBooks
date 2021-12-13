@@ -1,0 +1,24 @@
+D:\Projetos\WebBookManagement\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.deps.json
+D:\Projetos\WebBookManagement\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.dll
+D:\Projetos\WebBookManagement\WebBookManagement.Services\bin\Debug\net5.0\ref\WebBookManagement.Services.dll
+D:\Projetos\WebBookManagement\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.pdb
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.csproj.AssemblyReference.cache
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.AssemblyInfoInputs.cache
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.AssemblyInfo.cs
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.csproj.CoreCompileInputs.cache
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.dll
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\ref\WebBookManagement.Services.dll
+D:\Projetos\WebBookManagement\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.deps.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\bin\Debug\net5.0\ref\WebBookManagement.Services.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\bin\Debug\net5.0\WebBookManagement.Services.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.csproj.AssemblyReference.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.AssemblyInfoInputs.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.AssemblyInfo.cs
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.csproj.CoreCompileInputs.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\ref\WebBookManagement.Services.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement.Services\obj\Debug\net5.0\WebBookManagement.Services.pdb

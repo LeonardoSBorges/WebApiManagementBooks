@@ -1,0 +1,85 @@
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\appsettings.json
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.exe
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.deps.json
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.runtimeconfig.json
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.runtimeconfig.dev.json
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\ref\WebBookManagement.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.pdb
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Amaury.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Amaury.MediatR.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\MediatR.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Domain.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Domain.pdb
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.AssemblyReference.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.AssemblyInfoInputs.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.AssemblyInfo.cs
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.CoreCompileInputs.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\scopedcss\bundle\WebBookManagement.styles.css
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\staticwebassets\WebBookManagement.StaticWebAssets.Manifest.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.RazorTargetAssemblyInfo.cache
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.CopyComplete
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.dll
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\ref\WebBookManagement.dll
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.pdb
+D:\Projetos\WebBookManagement\WebBookManagement\obj\Debug\net5.0\WebBookManagement.genruntimeconfig.cache
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Services.dll
+D:\Projetos\WebBookManagement\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Services.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\appsettings.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.exe
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.deps.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.runtimeconfig.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.runtimeconfig.dev.json
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\ref\WebBookManagement.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Amaury.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Amaury.MediatR.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\MediatR.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Domain.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Services.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Domain.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\WebBookManagement.Services.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.AssemblyReference.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.AssemblyInfoInputs.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.AssemblyInfo.cs
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.CoreCompileInputs.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\scopedcss\bundle\WebBookManagement.styles.css
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\staticwebassets\WebBookManagement.StaticWebAssets.Manifest.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.RazorTargetAssemblyInfo.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.csproj.CopyComplete
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\ref\WebBookManagement.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.pdb
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\obj\Debug\net5.0\WebBookManagement.genruntimeconfig.cache
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\FluentValidation.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\testes\BookManagement-main (1)\BookManagement-main\WebBookManagement\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
