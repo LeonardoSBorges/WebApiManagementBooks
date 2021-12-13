@@ -15,3 +15,4 @@ Por se tratar de uma Api, foi-se utilizado o Swagger para falicitar a visualiza�
 | UpdateBook | Responsável por atualizar informações dos livros, para utilizalo deverá ser inserido 2 parâmetros que são o Id e o Title de livros existentes no cache. exemplo "id" : 1, "title" : "A Bela e a Fera"|
 | LoanBook | Responsável por atualizar o status do livro para Indisponível, os livros são inseridos com status Disponível, que por sua vez está disponível no cache para empréstimo. Ao chamar este método deverá ser inserido o Id do livro que deseja emprestar caso esteja disponivel, exemplo: "Id" = 1. |
 | ReturnBook | Responsável por atualizar o status do livro para Disponível, este método sera responsavel por atualizar o valor dos Status do livro de  Indisponível para Disponível e para que isso aconteça deverá ser inserido o Id do livro que deseja retornar caso esteja indisponivel, exemplo: "Id" = 1. |
+
